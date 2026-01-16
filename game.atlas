@@ -1,0 +1,169 @@
+game.png
+size: 1320, 1200
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+// Biome Tiles, Start of the First Row.
+
+TileSets/HexaMirabilis/Tiles/Grassland
+ rotate: false
+ xy: 2, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Grassland2
+ rotate: false
+ xy: 68, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Grassland3
+ rotate: false
+ xy: 134, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Desert
+ rotate: false
+ xy: 200, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Desert2
+ rotate: false
+ xy: 266, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Desert3
+ rotate: false
+ xy: 332, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+ TileSets/HexaMirabilis/Tiles/Plains
+ rotate: false
+ xy: 398, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Plains2
+ rotate: false
+ xy: 464, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Plains3
+ rotate: false
+ xy: 530, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Caatinga
+ rotate: false
+ xy: 596, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+ TileSets/HexaMirabilis/Tiles/Caatinga2
+ rotate: false
+ xy: 662, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+ TileSets/HexaMirabilis/Tiles/Caatinga3
+ rotate: false
+ xy: 728, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Tundra
+ rotate: false
+ xy: 794, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Tundra2
+ rotate: false
+ xy: 860, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Tundra3
+ rotate: false
+ xy: 926, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Snow
+ rotate: false
+ xy: 992, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Snow2
+ rotate: false
+ xy: 1058, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+ TileSets/HexaMirabilis/Tiles/Snow3
+ rotate: false
+ xy: 1,124, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Coast
+ rotate: false
+ xy: 1,190, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+ 
+TileSets/HexaMirabilis/Tiles/Ocean
+ rotate: false
+ xy: 1256, 58
+ size: 64, 56
+ orig: 64, 56
+ offset: 0, 0
+ index: -1
+  
+ // Biomes, End of the first row.
